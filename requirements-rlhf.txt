@@ -1,0 +1,10 @@
+torch==1.13.1
+torchdata==0.5.1
+transformers==4.36.1
+datasets==2.11.0
+evaluate==0.4.0
+rouge_score==0.1.2
+peft==0.3.0
+git+https://github.com/lvwerra/trl.git@25fa1bd
+sentencepiece
+tensorflow==2.15.0
